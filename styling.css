@@ -63,11 +63,11 @@ h1 a {
 
 #menu {
     height: 70px;
-    background-color: #f8e2fa;
-    /* background: linear-gradient(#E36A0C, #eb0eff);
+  
+    background: linear-gradient(#ff0000, #363036);
     background: -webkit-linear-gradient(#e97305, #00eeff);
-    background: -o-linear-gradient(#94f1f8, #33b5d5);
-    background: -moz-linear-gradient(#f894c3, #d53333); */
+    background: -o-linear-gradient(#94f1f8, #dfeff3);
+    background: -moz-linear-gradient(#f894c3, #d53333);
     padding: 7px 0;
 }
 
@@ -80,6 +80,7 @@ ul {
     padding: 0 30px;
     height: 30px;
     border-right: 1px solid #5d12e7;
+    color: blanchedalmond;
 }
 
 #menu ul li:last-child {
